@@ -1,0 +1,15 @@
+C:\Users\andre\source\repos\GCUnit5\Day18File_IO_Deserialization\bin\Debug\net6.0\Day18File_IO_Deserialization.exe
+C:\Users\andre\source\repos\GCUnit5\Day18File_IO_Deserialization\bin\Debug\net6.0\Day18File_IO_Deserialization.deps.json
+C:\Users\andre\source\repos\GCUnit5\Day18File_IO_Deserialization\bin\Debug\net6.0\Day18File_IO_Deserialization.runtimeconfig.json
+C:\Users\andre\source\repos\GCUnit5\Day18File_IO_Deserialization\bin\Debug\net6.0\Day18File_IO_Deserialization.dll
+C:\Users\andre\source\repos\GCUnit5\Day18File_IO_Deserialization\bin\Debug\net6.0\Day18File_IO_Deserialization.pdb
+C:\Users\andre\source\repos\GCUnit5\Day18File_IO_Deserialization\obj\Debug\net6.0\Day18File_IO_Deserialization.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\GCUnit5\Day18File_IO_Deserialization\obj\Debug\net6.0\Day18File_IO_Deserialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\GCUnit5\Day18File_IO_Deserialization\obj\Debug\net6.0\Day18File_IO_Deserialization.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\GCUnit5\Day18File_IO_Deserialization\obj\Debug\net6.0\Day18File_IO_Deserialization.AssemblyInfo.cs
+C:\Users\andre\source\repos\GCUnit5\Day18File_IO_Deserialization\obj\Debug\net6.0\Day18File_IO_Deserialization.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\GCUnit5\Day18File_IO_Deserialization\obj\Debug\net6.0\Day18File_IO_Deserialization.dll
+C:\Users\andre\source\repos\GCUnit5\Day18File_IO_Deserialization\obj\Debug\net6.0\refint\Day18File_IO_Deserialization.dll
+C:\Users\andre\source\repos\GCUnit5\Day18File_IO_Deserialization\obj\Debug\net6.0\Day18File_IO_Deserialization.pdb
+C:\Users\andre\source\repos\GCUnit5\Day18File_IO_Deserialization\obj\Debug\net6.0\Day18File_IO_Deserialization.genruntimeconfig.cache
+C:\Users\andre\source\repos\GCUnit5\Day18File_IO_Deserialization\obj\Debug\net6.0\ref\Day18File_IO_Deserialization.dll
